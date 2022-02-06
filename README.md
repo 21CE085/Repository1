@@ -3,7 +3,7 @@ int main()
 {
   if(a<b)
   {
-    printf("I am Fenius Nirmit");
+    printf("I am Genius Nirmit");
   }
   return 0;
 }
