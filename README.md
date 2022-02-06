@@ -5,5 +5,9 @@ int main()
   {
     printf("I am Genius Nirmit");
   }
+  else
+  {
+    printf("Hello World");
+  }
   return 0;
 }
